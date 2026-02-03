@@ -1,6 +1,31 @@
 ## Hi there 👋
+I'm a Computer Science student at Warsaw University of Technology, currently in my 3rd year and working on my thesis. Passionate about developing real problem solving systems (and finding and developing new ways to improve others' life by coding and AI?)
+***
+
+### Skills & technologies
+Java, springboot, 
+python, django
+cpp, c, cmaketools
+SQL, mysql, postgres, 
+docker, redis, rabbitMQ
+react, javascript,
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c)](https://skillicons.dev)
+
+### My projects
+#### Conversational system | Java SpringBoot, React/Next, Docker, Postgres, Redis, RabbitMQ
+!link
+#### BiteRight | Java SpringBoot, React, Docker, MySQLlite? Oracle?
+!link
+#### invest.ai | Django, React, TensorFlow
+!link?
+#### realtime mower simulator | C++, Qt, Cmake
+
+## 📫 How to reach me:
+email: `biegacz.hanna@gmail.com`
 
 <!--
+
+
 **hbiegacz/hbiegacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

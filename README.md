@@ -10,9 +10,9 @@ I'm a Computer Science student at Warsaw University of Technology, currently in 
 
 ### My projects
 #### Conversational system | Java SpringBoot, React/Next, Docker, Postgres, Redis, RabbitMQ
-!link
+You can check out the project repository [![here](https://github.com/Kerciu/conversational-system.git)].
 #### BiteRight | Java SpringBoot, React, Docker, MySQLlite? Oracle?
-!link
+You can check out the project repository [here](https://github.com/hbiegacz/BiteRight.git).
 #### invest.ai | Django, React, TensorFlow
 !link?
 #### realtime mower simulator | C++, Qt, Cmake

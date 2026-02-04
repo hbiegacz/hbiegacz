@@ -3,13 +3,10 @@ I'm a Computer Science student at Warsaw University of Technology, currently in 
 ***
 
 ### Skills & technologies
-Java, springboot, 
-python, django
-cpp, c, cmaketools
-SQL, mysql, postgres, 
-docker, redis, rabbitMQ
-react, javascript,
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,sql,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,django,react,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,docker,redis,rabbitmq,postman,cmake,git)](https://skillicons.dev)
+
 
 ### My projects
 #### Conversational system | Java SpringBoot, React/Next, Docker, Postgres, Redis, RabbitMQ

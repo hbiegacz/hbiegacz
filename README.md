@@ -3,7 +3,6 @@
 I'm a Computer Science student at Warsaw University of Technology, currently in my 3rd year and working on my thesis. 
 <!-- Passionate about developing real problem solving systems (and finding and developing new ways to improve others' life by coding and AI?) -->
 
-📫 How to reach me: email: `biegacz.hanna@gmail.com`
 
 ### 🦾Skills & technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,22 +44,16 @@ You can check out the project repository [here](https://github.com/hbiegacz/inve
 #### realtime mower simulator | C++, Qt, Cmake
 You can check out the project repository [here](https://github.com/hbiegacz/mower_simulator.git).
 
-
-
-
-
-**hbiegacz/hbiegacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hbiegacz&theme=dark)](https://git.io/streak-stats)
 -->
+## 📫 How to reach me
+email: `biegacz.hanna@gmail.com`
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hbiegacz&theme=dark)](https://git.io/streak-stats)

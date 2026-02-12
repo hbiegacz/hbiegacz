@@ -52,10 +52,13 @@ You can check out the project repository [here](https://github.com/hbiegacz/mowe
 - ⚡ Fun fact: ...
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hbiegacz&theme=dark)](https://git.io/streak-stats)
 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=hbiegacz&theme=whatsapp-dark&date_format=j%20M%5B%20Y%5D&card_width=850)](https://git.io/streak-stats) 
+
 -->
 ## 📫 How to reach me
 email: `biegacz.hanna@gmail.com`
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hbiegacz&theme=whatsapp-dark&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
+<p align="center"> 
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hbiegacz&theme=whatsapp-dark&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Streak" /></a>
+</p>
 
 ***Thanks for stopping by! You can check out some of my projects below:***

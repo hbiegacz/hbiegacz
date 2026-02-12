@@ -1,7 +1,9 @@
 ## 💫 About me
 <!-- ADD A HEADER FILE-->
-I'm a Computer Science student at Warsaw University of Technology, currently in my 3rd year and working on my thesis. Passionate about developing real problem solving systems (and finding and developing new ways to improve others' life by coding and AI?)
+I'm a Computer Science student at Warsaw University of Technology, currently in my 3rd year and working on my thesis. 
+<!-- Passionate about developing real problem solving systems (and finding and developing new ways to improve others' life by coding and AI?) -->
 
+📫 How to reach me: email: `biegacz.hanna@gmail.com`
 
 ### 🦾Skills & technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,6 +31,8 @@ I'm a Computer Science student at Warsaw University of Technology, currently in 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) -->
 
+
+<!--
 ### My projects
 #### Conversational system | Java SpringBoot, React/Next, Docker, Postgres, Redis, RabbitMQ
 You can check out the project repository [here](https://github.com/Kerciu/conversational-system.git).
@@ -42,10 +46,8 @@ You can check out the project repository [here](https://github.com/hbiegacz/inve
 #### realtime mower simulator | C++, Qt, Cmake
 You can check out the project repository [here](https://github.com/hbiegacz/mower_simulator.git).
 
-## 📫 How to reach me:
-email: `biegacz.hanna@gmail.com`
 
-<!--
+
 
 
 **hbiegacz/hbiegacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -56,3 +56,4 @@ You can check out the project repository [here](https://github.com/hbiegacz/mowe
 email: `biegacz.hanna@gmail.com`
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hbiegacz&theme=dark)](https://git.io/streak-stats)
+***Thanks for stopping by! You can check out some of my projects below:***

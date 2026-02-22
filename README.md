@@ -2,7 +2,7 @@
 Hey! I'm Hanna – a third-year Computer Science student at **Warsaw University of Technology**. I'm passionate about backend development and AI, 
 and I love building things that solve real problems – whether that's a chatbot, a nutrition tracker, or a Bitcoin predictor.
 
-When I'm not coding, I travel whenever I can and take care of my humble tropical plants collection – I find it the best way to reset. 🌿✈️
+When I'm not coding, I travel whenever I can and take care of my humble tropical plants collection – I find it the best way to reset for me. 🌿✈️
 
 ### 🦾Skills & technologies
 | Category | Technology |
@@ -38,11 +38,12 @@ Project repository [here](https://github.com/hbiegacz/mower_simulator.git).<br/>
 
 ## 📫 How to reach me
 **Email**: `biegacz.hanna@gmail.com` <br/>
-**LinkedIn**: www.linkedin.com/in/hanna-biegacz
-<br/>
+**LinkedIn**: [Hanna Biegacz](www.linkedin.com/in/hanna-biegacz)
 
+<br/>
 <p align="center"> 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hbiegacz&theme=whatsapp-dark&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Streak" /></a>
 </p>
 <br/>
+
 ***Thanks for stopping by! You can check out some of my projects below:***

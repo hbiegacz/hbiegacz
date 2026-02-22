@@ -2,7 +2,7 @@
 Hey! I'm Hanna – a third-year Computer Science student at **Warsaw University of Technology**. I'm passionate about backend development and AI, 
 and I love building things that solve real problems – whether that's a chatbot, a nutrition tracker, or a Bitcoin predictor.
 
-When I'm not coding, I travel whenever I can and take care of my humble tropical plants collection – I find it the best way to reset for me. 🌿✈️
+✈️When I'm not coding, I travel whenever I can and take care of my humble tropical plants collection – I find it the best way to reset.🌿
 
 ### 🦾Skills & technologies
 | Category | Technology |

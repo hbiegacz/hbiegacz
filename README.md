@@ -6,6 +6,8 @@ and I love building things that solve real problems – whether that's a chatbot
 
 🤟 Currently working on my thesis: Sign Language Learning App with gesture recognition via computer vision 
 
+🔍 On the lookout for a Software Engineering internship to learn, build, and make a difference
+
 ✈️ When I'm not coding, I travel whenever I can and take care of my humble tropical plants collection 🌿
 
 ### 🦾Skills & technologies

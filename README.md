@@ -44,7 +44,7 @@ Project repository [here](https://github.com/hbiegacz/mower_simulator.git).<br/>
 
 ## 📫 How to reach me
 **Email**: `biegacz.hanna@gmail.com` <br/>
-**LinkedIn**: [Hanna Biegacz](www.linkedin.com/in/hanna-biegacz)
+**LinkedIn**: [Hanna Biegacz]( https://www.linkedin.com/in/hanna-biegacz)
 
 <br/>
 <p align="center"> 

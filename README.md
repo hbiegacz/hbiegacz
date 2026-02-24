@@ -38,7 +38,7 @@ Project repository [here](https://github.com/hbiegacz/invest.ai.git).<br/>
 
 #### Realtime mower simulator | C++, Qt, Cmake, Google Test
 Real-time steering simulator with smooth 2D visualization and multithreading.
-Project repository [here](https://github.com/hbiegacz/mower_simulator.git).<br/>
+Project repository [here](https://github.com/hbiegacz/mower_simulator.git).
 -->
 
 

@@ -12,6 +12,7 @@ and I love building things that solve real problems – whether that's a chatbot
 
 ✈️ When I'm not coding, I travel whenever I can and take care of my humble tropical plants collection 🌿
 
+
 ### 🦾Skills & technologies
 | Category | Technology |
 |----------|------------|

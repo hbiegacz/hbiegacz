@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=FFDD44&center=false&vCenter=false&width=500&lines=CS+Student+%40+Warsaw+University+of+Technology;Backend+Developer;Seeking+SWE+Internships!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 Hey! I'm Hanna – a third-year Computer Science student at **Warsaw University of Technology**. I'm passionate about backend development and AI, 
-and I love building things that solve real problems – whether that's a chatbot, a nutrition tracker, or a Bitcoin predictor.
+and building things that solve real problems brings me great satiscaftion – whether that's a chatbot, a nutrition tracker, or a Bitcoin predictor.
 
 📖 Clean Code practitioner (actually read it!)
 

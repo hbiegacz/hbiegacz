@@ -8,8 +8,6 @@ Building things that solve real problems genuinely brings me great satiscaftion 
 
 🤟 Currently working on my thesis: Sign Language Learning App with gesture recognition via computer vision 
 
-🔍 On the lookout for a Software Engineering internship to learn new tools and grow as a person
-
 ✈️ When I'm not coding, I travel whenever I can and take care of my humble tropical plants collection 🌿
 
 

@@ -1,5 +1,5 @@
 ## 🌟 About me 💫
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=FFDD44&center=false&vCenter=false&width=500&lines=CS+Student+%40+Warsaw+University+of+Technology;Software+Engeneering;Seeking+Internships!)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=FFDD44&center=false&vCenter=false&width=500&lines=CS+Student+%40+Warsaw+University+of+Technology;Software+Engeneering;)](https://github.com/DenverCoder1/readme-typing-svg)
 
 Hey! I'm Hanna, a third-year Computer Science student at **Warsaw University of Technology**. I'm passionate about coding and backend development. 
 Building things that solve real problems genuinely brings me great satiscaftion – whether that's a chatbot, a nutrition tracker, or a Bitcoin predictor.

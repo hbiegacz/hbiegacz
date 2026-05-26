@@ -34,5 +34,5 @@ Hey! I'm Hanna, a **Computer Science student** combining studies with an **inter
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hbiegacz&theme=whatsapp-dark&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Streak" /></a>
 </p>
 <br/>
--->
 ***Thanks for stopping by! I encourage you to take a look at my projects:***
+-->

@@ -1,4 +1,3 @@
-## ✦ About me ✶⋆.˚
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=FFDD44&center=false&vCenter=false&width=500&lines=CS+Student+%40+Warsaw+University+of+Technology;)](https://github.com/DenverCoder1/readme-typing-svg)
 
 Hey! I'm Hanna, a **Computer Science student** combining studies with an **internship at Webfleet**.

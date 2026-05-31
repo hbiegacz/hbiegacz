@@ -2,7 +2,7 @@
 
 Hey! I'm Hanna, a **Computer Science student** combining studies with an **internship at Webfleet**.
  
-🕮 Currently doing my best to became a skilled Software Developer by reading, programming, asking _lots of_ questions and learning from experienced developers.
+🕮 Currently doing my best to become a skilled Software Developer by reading, programming, asking _lots of_ questions and learning from experienced developers.
 
 ⌯✈︎ When I'm not coding, I travel whenever I can and take care of my humble tropical plants collection ˚˖𓍢ִ໋🍃✧˚.💚⋆
 
